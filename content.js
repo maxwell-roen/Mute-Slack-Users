@@ -6,7 +6,7 @@ window.setInterval(function() {
 		var gParents = parents.parent()
 		var ggParents = gParents.parent()
 		$(posts).hide()
-		$(parent).hide()
+		$(parents).hide()
 		$(gParents).hide()
 		$(ggParents).hide()
 	}
