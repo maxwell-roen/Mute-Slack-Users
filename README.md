@@ -9,5 +9,6 @@ out how to block content from those users ever being pulled down.
 How to use?
 
 1) Add users to config.js in a comma separated list.
+  eg: "user1", "user2", "user3"
 2) Navigate to chrome://extensions
 3) Drag and drop the entire file onto the extensions page
